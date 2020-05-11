@@ -1,10 +1,10 @@
 # AsRock-Z390-Phantom-Gaming-ITX-Hackintosh-Catalina
 
-Donate » https://money.yandex.ru/to/41001643979033
+Buy EFI or Donate » https://money.yandex.ru/to/41001643979033
 
 ![tonymac](https://user-images.githubusercontent.com/6239630/73441762-8d9eb300-4364-11ea-8566-80372069032c.jpg)
 
-It's my version of EFI folders for booting Catalina 10.15.5. U may download latest EFI only from Release tab.<br>
+It's my old version of EFI folders for booting Catalina 10.15.5. U may download it from Release tab.<br> My fresh EFI cost 30$. Difference between old and new version in eGPU performance with NAVI card and with USB-C/Thunderbolt works . eGPU difference on pict bellow. And pair of links for verification. I spent many time for do it. This EFI will never been for free.
 
 
 

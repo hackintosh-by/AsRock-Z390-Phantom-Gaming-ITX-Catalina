@@ -6,6 +6,10 @@ Buy EFI or Donate » https://money.yandex.ru/to/41001643979033
 
 It's my old version of EFI folders for booting Catalina 10.15.5. U may download it from Release tab.<br> My fresh EFI cost 30$. Difference between old and new version in eGPU performance with NAVI card and with USB-C/Thunderbolt works . eGPU difference on pict bellow. And pair of links for verification. I spent many time for do it. This EFI will never been for free.
 
+![Screen-Shot-2020-05-12-at-00 10 02](https://user-images.githubusercontent.com/65073658/81612740-fb3b9000-93e5-11ea-9f94-2aaa1c303b4b.jpg)
+Before → https://browser.geekbench.com/v5/compute/474981
+After → https://browser.geekbench.com/v5/compute/899540
+
 
 
 Support&Remote install on Telegram App:<br> 
@@ -17,7 +21,7 @@ Support&Remote install on Telegram App:<br>
 <ul>
 <li>Intel i7 8700K</li>
 <li>Asrock Z390 Phantom-Gaming ITX/ac . BIOS P4.2</li>
-<li>Sapphire Radeon RX5700 </li>
+<li>Sapphire Radeon RX5700</li>
 <li>32Gb RAM</li>
 <li>NVME SSD Samsung 970 EVO Plus (latest firmware)</li>
 <li>Wi-Fi&Bluetooth NGFF-M2.KEY.E BCM94360CS2 – From Macbook Air 13</li>
